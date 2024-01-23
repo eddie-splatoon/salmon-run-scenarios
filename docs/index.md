@@ -21,9 +21,9 @@
 # List
 ### <img width="28" alt="Sockeye Station" src="img/stages/stage-sockeye-station.png"> Sockeye Station
 
-| Codes                 | Date         | Hazard Level | WAVE1 | WAVE2 | WAVE3 | EX-WAVE |
-|-----------------------|--------------|--------------|-------|-------|-------|---------|
-| `S1TY-MGY2-HFEC-05ED` | `2023-09-13` | `333%`       | `N`   | `L`   | `N`   | `C`     |
+| Codes                 | Date         | Hazard Level | Waves       | EX-WAVE |
+|-----------------------|--------------|--------------|-------------|---------|
+| `S1TY-MGY2-HFEC-05ED` | `2023-09-13` | `333%`       | `N`/`L`/`N` | <img width="16" alt="Sockeye Station" src="img/bosses/boss-cohozuna.png"> |
 
 ### <img width="28" alt="Sockeye Station" src="img/stages/stage-gone-fission-hydroplant.png">
 #### Gone Fission Hydroplant
