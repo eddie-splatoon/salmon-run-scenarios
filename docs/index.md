@@ -19,8 +19,7 @@
 | The Mothership | M        |
 
 # List
-### <img width="28" alt="Sockeye Station" src="img/stages/stage-sockeye-station.png">
-#### Sockeye Station
+### <img width="28" alt="Sockeye Station" src="img/stages/stage-sockeye-station.png"> Sockeye Station
 
 | Codes                 | Date         | Hazard Level | WAVE1 | WAVE2 | WAVE3 | EX-WAVE |
 |-----------------------|--------------|--------------|-------|-------|-------|---------|
