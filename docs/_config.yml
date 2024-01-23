@@ -1,4 +1,5 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-midnight
 
 title: "Salmon run NW scenarios"
 description: "Here is a list of scenario codes I have played or had friends share with me."
