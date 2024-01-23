@@ -1,6 +1,4 @@
-# List
-
-## Notations
+# Notations
 ### Water levels
 
 | Level      | Notation |
@@ -20,11 +18,12 @@
 | Goldie Seeking | S        |
 | The Mothership | M        |
 
-### Sockeye Station
+# List
+### <img width="128" alt="Sockeye Station" src="img/stages/stage-sockey-station.png"> Sockeye Station
 
-| Codes                 | Date     | Hazard Level | Weapons | WAVE1 | WAVE2 | WAVE3 | EX-WAVE |
-|-----------------------|----------|--------------|---------|-------|-------|-------|---------|
-| `S1TY-MGY2-HFEC-05ED` |2023-09-13| 333%         |         | N     | L     | N     | N       |
+| Codes                 | Date         | Hazard Level | WAVE1 | WAVE2 | WAVE3 | EX-WAVE |
+|-----------------------|--------------|--------------|-------|-------|-------|---------|
+| `S1TY-MGY2-HFEC-05ED` | `2023-09-13` | `333%`       | `N`   | `L`   | `N`   | `C`     |
 
 ### Gone Fission Hydroplant
 
