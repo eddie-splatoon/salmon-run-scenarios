@@ -19,27 +19,22 @@
 | The Mothership | M        |
 
 # List
-### <img width="28" alt="Sockeye Station" src="img/stages/stage-sockeye-station.png"> Sockeye Station
+## <img width="28" alt="Sockeye Station" src="img/stages/stage-sockeye-station.png"> Sockeye Station
 
-| Codes                 | Date         | Hazard Level | Waves       | EX-WAVE |
-|-----------------------|--------------|--------------|-------------|---------|
-| `S1TY-MGY2-HFEC-05ED` | `2023-09-13` | `333%`       | `N`/`L`/`N` | <img width="16" alt="Sockeye Station" src="img/bosses/boss-cohozuna.png"> |
+| Date         | Codes                 | Hazard Level   | Waves           | EX-WAVE   |
+|:------------:|:---------------------:|:--------------:|:---------------:|:---------:|
+| `2023-09-13` | `S1TY-MGY2-HFEC-05ED` | `333%`         | `N` / `L` / `N` | <img width="16" alt="Sockeye Station" src="img/bosses/boss-cohozuna.png"> |
 
-### <img width="28" alt="Sockeye Station" src="img/stages/stage-gone-fission-hydroplant.png">
-#### Gone Fission Hydroplant
-
-
-### <img width="28" alt="Sockeye Station" src="img/stages/stage-spawning-grounds.png">
-#### Spawning Grounds
+## <img width="28" alt="Sockeye Station" src="img/stages/stage-gone-fission-hydroplant.png"> Gone Fission Hydroplant
 
 
-### <img width="28" alt="Sockeye Station" src="img/stages/stage-marooners-bay.png">
-#### Marooner's Bay
+## <img width="28" alt="Sockeye Station" src="img/stages/stage-spawning-grounds.png"> Spawning Grounds
 
 
-### <img width="28" alt="Sockeye Station" src="img/stages/stage-jammin-salmon-junction.png">
-#### Jammin' Salmon Junction
+## <img width="28" alt="Sockeye Station" src="img/stages/stage-marooners-bay.png"> Marooner's Bay
 
 
-### <img width="28" alt="Sockeye Station" src="img/stages/stage-salmonid-smokeyard.png">
-#### Salmonid Smokeyard
+## <img width="28" alt="Sockeye Station" src="img/stages/stage-jammin-salmon-junction.png"> Jammin' Salmon Junction
+
+
+## <img width="28" alt="Sockeye Station" src="img/stages/stage-salmonid-smokeyard.png"> Salmonid Smokeyard
